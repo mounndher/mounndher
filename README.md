@@ -7,18 +7,13 @@
 
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+I’m El Moundher Riache, a Full Stack Developer passionate about creating smart, scalable, and user-focused digital solutions. I specialize in Laravel, Flutter, and API development, with growing expertise in SAP integration and automation tools like n8n.
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+Driven by curiosity and purpose, I love turning complex problems into elegant solutions — whether it’s building a complete web system from scratch or connecting enterprise tools for seamless automation.
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+I’ve worked on a wide range of projects, from eCommerce and real estate platforms to ERP systems, leading the full lifecycle from backend logic to frontend design.
 
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
-
-Joined Github **7** years ago.
-
-Since then I pushed **3564**+ commits, opened **229**+ issues, submitted **598**+ pull requests, created **20**+ gists and contributed to **6**+ public repositories.
-
+When I’m not coding, you’ll probably find me exploring new technologies, watching dev content, or optimizing my workflows. 🚀
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
 <p align="center">
