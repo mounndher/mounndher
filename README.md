@@ -1,6 +1,6 @@
 ## Hey there 👋, I'm [El Moundher!](https://github.com/iampavangandhi/)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
+
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/el-moundher-riache-869805239)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mon_dher.19/)
 
@@ -31,7 +31,7 @@ Like My Work?
 
 - 🛠 &nbsp; I’m currently working with Laravel, Flutter,react, Node.js, and API integrations.
 - 🚀 &nbsp;I’m currently exploring n8n automation, AI integrations, and SAP-Laravel synchronization etc.
-- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+
 - 👾 &nbsp; Fun fact: I love connecting real business workflows with automation and clean code..
 - 📫 &nbsp; Reach me out: nanou.riache19@gmail.com.
 
