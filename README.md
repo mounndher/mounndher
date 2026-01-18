@@ -6,7 +6,7 @@
 
 
 ### Glad to see you here! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
+
 I’m El Moundher Riache, a Full Stack Developer passionate about creating smart, scalable, and user-focused digital solutions. I specialize in Laravel, Flutter, and API development, with growing expertise in SAP integration and automation tools like n8n.
 
 Driven by curiosity and purpose, I love turning complex problems into elegant solutions — whether it’s building a complete web system from scratch or connecting enterprise tools for seamless automation.
